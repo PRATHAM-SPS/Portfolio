@@ -17,16 +17,19 @@ export const Projects = () => {
       title: "IIT Bombay (FOSSEE)",
       description: "(Free/Libre and Open Source Software for Education) project promotes the use of FLOSS tools to improve the quality of education in our country",
       imgUrl: projImg1,
+      link: "https://simulation.iitbx.in/arduino/#/simulator?gallery=3&proId=gallery77894.21093023136",
     },
     {
       title: "Intel® Distribution of OpenVINO™ Toolkit",
       description: "Optimize and deploy AI inference. Boost deep learning performance in computer vision, automatic speech recognition, NLP, and more.",
       imgUrl: projImg2,
+      link: "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html"
     },
     {
       title: "VCET SOLECTHON (Autonomous Car)",
       description: "Here at VCET SOLECTHON we design and manufacture Solar Powered Electric vehicles, contributing to a sustainable and pollution free environment.",
       imgUrl: projImg3,
+      link:"https://drive.google.com/file/d/1Xrqvf8StqAaeqDEpgvFRtLO2VnyNWDSE/view?usp=sharing"
     },];
 
   const projects_2 = [
@@ -34,16 +37,19 @@ export const Projects = () => {
       title: "Music Recommending Chatbot",
       description: "Deployed Using Anvil & Google Colab. Used NLP to make computer to communicate with humans in their own language and scales other language-related tasks",
       imgUrl: projImg4,
+      link: "https://youtu.be/HaboVdN2DL8",
     },
     {
       title: "Metadata Farmer Assistance WebApp",
       description: "Deployed Using Flask",
       imgUrl: projImg5,
+      link: "https://youtu.be/vMVhOiScpZI",
     },
     {
       title: "Waste Classification WebApp + Android App",
       description: "Image-Classification-App-with-Custom-TensorFlow-Model",
       imgUrl: projImg6,
+      link: "https://github.com/PRATHAM-SPS/Waste-Classification",
     },
   ];
 
@@ -91,7 +97,7 @@ export const Projects = () => {
                           Implementing effective bug-fixing strategies to enhance the
                           stability and performance of the software system.</p>
                         <p>2.) OPENVINO:- Software Engineer  (Contributor) at OpenVINO (Open Source Project).
-                          Resolved and removed test-generator extension, adopted unittest's subTest for Model Optimizer
+                         <a href="https://github.com/openvinotoolkit/openvino/pull/18512"> Resolved and removed test-generator extension</a>, adopted unittest's subTest for Model Optimizer
                           Enhanced testing suite maintainability and reliability, ensuring better test isolation
                           Contributed to OpenVINO, showcasing Python, unittest, and open-source skills.</p>
                         <p>3.) VCET SOLECTHON(LEAD @ Controler system):-
