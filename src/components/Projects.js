@@ -97,7 +97,7 @@ export const Projects = () => {
                           Implementing effective bug-fixing strategies to enhance the
                           stability and performance of the software system.</p>
                         <p>2.) OPENVINO:- Software Engineer  (Contributor) at OpenVINO (Open Source Project).
-                         <a href="https://github.com/openvinotoolkit/openvino/pull/18512"> Resolved and removed test-generator extension</a>, adopted unittest's subTest for Model Optimizer
+                         <a href="https://github.com/openvinotoolkit/openvino/pull/18512" target="_blank" rel="noopener noreferrer"> Resolved and removed test-generator extension</a>, adopted unittest's subTest for Model Optimizer
                           Enhanced testing suite maintainability and reliability, ensuring better test isolation
                           Contributed to OpenVINO, showcasing Python, unittest, and open-source skills.</p>
                         <p>3.) VCET SOLECTHON(LEAD @ Controler system):-

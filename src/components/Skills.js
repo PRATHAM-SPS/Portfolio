@@ -47,7 +47,7 @@ export const Skills = () => {
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
                         
-                        {<h4>Prefers Practical knowledge over Theoretica Knowledge</h4>
+                        {<h4>Prefers Practical knowledge over Theoretical Knowledge</h4>
                         /* <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p> */}
                        <p>Practical knowledge takes precedence,featuring hands-on expertise and real-world applications, enriching our skill set through experiential learning, and enabling seamless problem-solving and pragmatic implementation in diverse operational scenarios</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">

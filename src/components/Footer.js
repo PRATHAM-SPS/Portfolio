@@ -17,11 +17,11 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/in/pratham-ingawale-524288213/?originalSubdomain=in"><img src={navIcon1} alt="LinkedIn" /></a>
-              <a href="https://www.youtube.com/channel/UCIypIg9uzbIY2phLlqTNCdA"><img src={navIcon4} alt="LinkedIn" /></a>
+              <a href="https://www.linkedin.com/in/pratham-ingawale-524288213/?originalSubdomain=in" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="LinkedIn" /></a>
+              <a href="https://www.youtube.com/channel/UCIypIg9uzbIY2phLlqTNCdA" target="_blank" rel="noopener noreferrer"><img src={navIcon4} alt="LinkedIn" /></a>
               
-              <a href="https://github.com/PRATHAM-SPS"><img src={navIcon2} alt="GitHub" /></a>
-              <a href="https://www.instagram.com/pratham_ingawale/"><img src={navIcon3} alt="Instagram" /></a>
+              <a href="https://github.com/PRATHAM-SPS" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="GitHub" /></a>
+              <a href="https://www.instagram.com/pratham_ingawale/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="Instagram" /></a>
             </div>
             <p>Copyright 2023. All Rights Reserved<br></br><b>Pratham Ingawale</b></p>
            
