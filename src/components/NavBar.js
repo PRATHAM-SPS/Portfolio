@@ -56,7 +56,7 @@ export const NavBar = () => {
                 <a href="https://github.com/PRATHAM-SPS" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/pratham_ingawale/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="" /></a>
               </div>
-              <a href="https://drive.google.com/file/d/1_8qYfzkqvCDmFiY5HewHHl9ty7_icpAm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1KT87BOKc2RteCwXt3W_kA72uZBYlBLCz/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <button className="vvd"><span>Resume</span></button>
               </a>
             </span>
