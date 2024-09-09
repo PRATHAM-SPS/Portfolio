@@ -23,7 +23,7 @@ export const Footer = () => {
               <a href="https://github.com/PRATHAM-SPS" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="GitHub" /></a>
               <a href="https://www.instagram.com/pratham_ingawale/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="Instagram" /></a>
             </div>
-            <p>Copyright 2023. All Rights Reserved<br></br><b>Pratham Ingawale</b></p>
+            <p>Copyright 2024. All Rights Reserved<br></br><b>Pratham Ingawale</b></p>
            
           </Col>
         </Row>
